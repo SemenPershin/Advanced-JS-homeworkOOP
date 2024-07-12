@@ -1,4 +1,3 @@
-import { Character } from "../Character";
 import { Bowman } from "../Bowman"
 
 

@@ -1,4 +1,3 @@
-import { Character } from "../Character";
 import { Daemon } from "../Daemon";
 
 test('Summon daemon', () => {

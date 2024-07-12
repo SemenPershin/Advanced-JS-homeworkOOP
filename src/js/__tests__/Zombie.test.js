@@ -1,4 +1,3 @@
-import { Character } from "../Character";
 import { Zombie } from "../Zombie";
 
 test('Summon zombie', () => {
